@@ -41,6 +41,7 @@ LeetCode problem solutions in Java.
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
