@@ -7,6 +7,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
@@ -67,6 +68,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -75,4 +77,8 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
