@@ -8,6 +8,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0007-reverse-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
@@ -35,6 +36,7 @@ LeetCode problem solutions in Java.
 | [0001-two-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0075-sort-colors) |
@@ -65,6 +67,7 @@ LeetCode problem solutions in Java.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
