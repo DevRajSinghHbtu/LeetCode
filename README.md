@@ -9,6 +9,7 @@ LeetCode problem solutions in Java.
 | [0007-reverse-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -31,6 +32,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0414-third-maximum-number) |
@@ -77,6 +79,7 @@ LeetCode problem solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
 ## Bit Manipulation
