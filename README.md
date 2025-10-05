@@ -11,6 +11,7 @@ LeetCode problem solutions in Java.
 | [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ LeetCode problem solutions in Java.
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
