@@ -34,6 +34,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
