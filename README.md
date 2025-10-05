@@ -58,6 +58,7 @@ LeetCode problem solutions in Java.
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -102,6 +103,7 @@ LeetCode problem solutions in Java.
 | [0283-move-zeroes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +144,8 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0053-maximum-subarray](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
