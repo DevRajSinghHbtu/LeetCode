@@ -30,6 +30,7 @@ LeetCode problem solutions in Java.
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -65,4 +66,8 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
