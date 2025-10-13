@@ -36,6 +36,7 @@ LeetCode problem solutions in Java.
 | [0540-single-element-in-a-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ LeetCode problem solutions in Java.
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1580-shuffle-the-array) |
