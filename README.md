@@ -40,6 +40,7 @@ LeetCode problem solutions in Java.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ LeetCode problem solutions in Java.
 | [1580-shuffle-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
