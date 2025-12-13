@@ -97,6 +97,7 @@ LeetCode problem solutions in Java.
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/3046-split-the-array) |
@@ -225,6 +226,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Brainteaser
 |  |
 | ------- |
