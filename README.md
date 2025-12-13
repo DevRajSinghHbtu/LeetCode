@@ -17,6 +17,7 @@ LeetCode problem solutions in Java.
 | [0367-valid-perfect-square](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1025-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
@@ -195,6 +196,7 @@ LeetCode problem solutions in Java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -223,4 +225,12 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
