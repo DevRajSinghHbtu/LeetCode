@@ -97,6 +97,7 @@ LeetCode problem solutions in Java.
 | [1791-richest-customer-wealth](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/3046-split-the-array) |
 ## Matrix
 |  |
@@ -119,6 +120,7 @@ LeetCode problem solutions in Java.
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/3046-split-the-array) |
 ## Counting
 |  |
@@ -174,6 +176,7 @@ LeetCode problem solutions in Java.
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
+| [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
 ## Interactive
 |  |
 | ------- |
