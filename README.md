@@ -96,6 +96,7 @@ LeetCode problem solutions in Java.
 | [1791-richest-customer-wealth](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3046-split-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/3046-split-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -117,12 +118,14 @@ LeetCode problem solutions in Java.
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3046-split-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/3046-split-the-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3046-split-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
 | ------- |
