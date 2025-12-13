@@ -175,6 +175,7 @@ LeetCode problem solutions in Java.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
@@ -235,4 +236,8 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1025-divisor-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
