@@ -85,6 +85,7 @@ LeetCode problem solutions in Java.
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1389-create-target-array-in-the-given-order](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -204,6 +205,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0054-spiral-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
