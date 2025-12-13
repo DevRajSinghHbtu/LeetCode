@@ -1,0 +1,22 @@
+import java.util.ArrayList;
+import java.util.List;
+class Solution {
+    public int[] createTargetArray(int[] nums, int[] index) {
+        // int target [] = new int[nums.length];
+        // for(int i = 0;i<nums.length;i++)
+        // {
+        //     target[index[i]] = nums[i];
+        // }
+        // return target;
+        ArrayList <Integer> list = new ArrayList<Integer>();
+        for(int i = 0;i<nums.length;i++)
+        {
+            list.add(index[i], nums[i]);
+        }
+         int[] target = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            target[i] = list.get(i);
+           
+    }
+     return target;
+}}
