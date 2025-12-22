@@ -157,6 +157,7 @@ LeetCode problem solutions in Java.
 | [0031-next-permutation](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0283-move-zeroes) |
@@ -177,6 +178,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
 | [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
