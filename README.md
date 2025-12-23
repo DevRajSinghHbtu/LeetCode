@@ -49,6 +49,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -177,6 +178,7 @@ LeetCode problem solutions in Java.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -245,4 +247,8 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
