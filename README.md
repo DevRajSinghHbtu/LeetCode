@@ -185,6 +185,7 @@ LeetCode problem solutions in Java.
 | [0151-reverse-words-in-a-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0796-rotate-string) |
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
@@ -253,4 +254,8 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
