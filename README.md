@@ -8,6 +8,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0007-reverse-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
@@ -114,6 +115,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0169-majority-element) |
@@ -179,6 +181,7 @@ LeetCode problem solutions in Java.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
