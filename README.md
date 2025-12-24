@@ -186,6 +186,7 @@ LeetCode problem solutions in Java.
 | [0205-isomorphic-strings](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
@@ -250,6 +251,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
