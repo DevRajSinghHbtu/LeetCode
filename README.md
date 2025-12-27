@@ -200,6 +200,7 @@ LeetCode problem solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1013-fibonacci-number) |
@@ -266,6 +267,7 @@ LeetCode problem solutions in Java.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
