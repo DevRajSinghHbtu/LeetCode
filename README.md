@@ -175,6 +175,7 @@ LeetCode problem solutions in Java.
 | [0283-move-zeroes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -279,4 +280,5 @@ LeetCode problem solutions in Java.
 | [0141-linked-list-cycle](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
