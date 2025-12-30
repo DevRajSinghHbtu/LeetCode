@@ -211,6 +211,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1013-fibonacci-number) |
@@ -283,6 +284,7 @@ LeetCode problem solutions in Java.
 | [0141-linked-list-cycle](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
