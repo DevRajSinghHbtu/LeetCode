@@ -16,7 +16,7 @@ class Solution {
          // in this part we will iterate to the left node
         ListNode prev = null;
         ListNode current = head;
-        for(int i = 0; i<left - 1 && current != null; i++)
+        for(int i = 0; i<left - 1 ; i++)
         {
             prev = current;
             current = current.next;
