@@ -169,6 +169,7 @@ LeetCode problem solutions in Java.
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -212,6 +213,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -269,6 +271,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -287,6 +290,7 @@ LeetCode problem solutions in Java.
 | [0092-reverse-linked-list-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0234-palindrome-linked-list) |
