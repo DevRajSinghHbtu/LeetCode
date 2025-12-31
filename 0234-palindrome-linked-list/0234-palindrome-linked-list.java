@@ -13,7 +13,7 @@ class Solution {
         ListNode mid = findMid(head);
         ListNode revHead = reverseList(mid);
         ListNode temp = revHead;
-        while(head != null && revHead != null)
+        while(revHead != null)
         {
             if(head.val != revHead.val)
             {
