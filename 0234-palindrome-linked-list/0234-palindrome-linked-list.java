@@ -24,7 +24,7 @@ class Solution {
             revHead = revHead.next;
         }
         reverseList(temp);
-        if(head == null || revHead == null)
+        if(revHead == null)
         return true;
         return false;
     }
