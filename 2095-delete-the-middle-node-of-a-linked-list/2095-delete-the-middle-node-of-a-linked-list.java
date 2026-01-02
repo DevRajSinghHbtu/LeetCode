@@ -14,20 +14,16 @@ class Solution {
         {
             return null;
         }
-        ListNode a = head;
-        int length = 0;
-        while(a != null)
-        {
-            length++;
-            a = a.next;
-        }
-        int org = (int)Math.ceil((double)(length/2));
-        ListNode node = head;
-        for(int i = 1;i<org;i++)
-        {
-           node = node.next;
-        }
-        node.next = node.next.next;
-        return head;
+       ListNode slow = head;
+       ListNode fast = head;
+       ListNode temp = null;
+       while(fast != null && fast.next != null)
+       {
+        temp = slow;
+        slow = slow.next;
+        fast = fast.next.next;
+       }
+       temp.next = slow.next;
+       return head;
     }
 }
