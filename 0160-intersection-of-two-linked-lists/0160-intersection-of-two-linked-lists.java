@@ -50,13 +50,12 @@ public class Solution {
         }
         
            
-            while((sB != sA) && (sB != null))
+            while(sB != sA) 
             {
                 sB = sB.next;
                 sA = sA.next;
             }
-           if(sB == null)
-           return null;
+          
            return sB;
 
     }
