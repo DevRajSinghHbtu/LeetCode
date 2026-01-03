@@ -6,6 +6,7 @@ LeetCode problem solutions in Java.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0013-roman-to-integer) |
@@ -217,6 +218,7 @@ LeetCode problem solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -290,6 +292,7 @@ LeetCode problem solutions in Java.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0061-rotate-list) |
