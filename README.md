@@ -11,6 +11,7 @@ LeetCode problem solutions in Java.
 | [0009-palindrome-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0202-happy-number) |
@@ -221,6 +222,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
