@@ -66,6 +66,7 @@ LeetCode problem solutions in Java.
 | [0054-spiral-matrix](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -191,6 +192,7 @@ LeetCode problem solutions in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
@@ -316,4 +318,8 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
