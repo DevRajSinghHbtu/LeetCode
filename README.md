@@ -213,6 +213,7 @@ LeetCode problem solutions in Java.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
@@ -243,6 +244,7 @@ LeetCode problem solutions in Java.
 | [0053-maximum-subarray](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1025-divisor-game) |
@@ -332,4 +334,5 @@ LeetCode problem solutions in Java.
 | [0040-combination-sum-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
