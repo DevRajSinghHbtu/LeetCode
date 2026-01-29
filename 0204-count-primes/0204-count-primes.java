@@ -1,6 +1,6 @@
 class Solution {
     public int countPrimes(int n) {
-        int[] a = new int[n+1];
+        int[] a = new int[n];
         for(int i = 2; i<n; i++)
         {
             a[i] = 1;
