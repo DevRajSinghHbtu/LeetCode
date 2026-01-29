@@ -16,6 +16,7 @@ LeetCode problem solutions in Java.
 | [0069-sqrtx](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
@@ -80,6 +81,7 @@ LeetCode problem solutions in Java.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
@@ -338,4 +340,12 @@ LeetCode problem solutions in Java.
 | [0078-subsets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
