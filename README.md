@@ -297,6 +297,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -348,4 +349,12 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
