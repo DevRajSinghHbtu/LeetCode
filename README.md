@@ -97,6 +97,7 @@ LeetCode problem solutions in Java.
 | [0540-single-element-in-a-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -275,6 +276,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0735-asteroid-collision) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
@@ -312,6 +314,7 @@ LeetCode problem solutions in Java.
 | [0234-palindrome-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
