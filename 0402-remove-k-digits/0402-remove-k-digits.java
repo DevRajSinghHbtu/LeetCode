@@ -25,8 +25,8 @@ class Solution {
         String ans = "";
       while(!st.isEmpty())
       {
-         ans = st.peek() + ans;
-         st.pop();
+         ans = st.pop() + ans;
+         
       }
       while(ans.length() > 1 && ans.charAt(0) == '0' )
       {
