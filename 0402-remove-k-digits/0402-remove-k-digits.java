@@ -25,10 +25,10 @@ class Solution {
         String ans = "";
       while(!st.isEmpty())
       {
-         ans = ans + st.pop();
+         ans = st.pop() + ans;
       }
-      String reversed = new StringBuilder(ans).reverse().toString();
-      ans = reversed;
+     
+      
       while(ans.length() > 1 && ans.charAt(0) == '0' )
       {
         ans = ans.substring(1);
