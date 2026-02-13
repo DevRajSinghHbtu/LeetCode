@@ -27,6 +27,7 @@ LeetCode problem solutions in Java.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1922-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ LeetCode problem solutions in Java.
 | [0234-palindrome-linked-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
