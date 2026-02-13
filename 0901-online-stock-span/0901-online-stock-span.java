@@ -8,8 +8,8 @@ class StockSpanner {
        int span = 1;
       while(!st.isEmpty() && st.peek()[0] <= price)
       {
-        span += st.peek()[1];
-        st.pop();
+        span += st.pop()[1];
+        
       } 
       st.push(new int[]{price, span});
       return span; 
