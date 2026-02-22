@@ -25,7 +25,7 @@ class Solution {
             mi = r;
             max = nums[r];
         }
-        else if(mi <= l)
+        else if(mi < l)
         {
             max = Integer.MIN_VALUE;
             for(int j = l; j<=r; j++)
@@ -38,8 +38,8 @@ class Solution {
             }
         }
      a[i] = max;
-     r += 1;
-     l += 1;
+     r++;
+     l++;
      i++;
     }
      
