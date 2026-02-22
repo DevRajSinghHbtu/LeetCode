@@ -15,11 +15,18 @@ class Solution {
             mi = i;
         }
        } 
+       
        int n = nums.length;
       int[] a = new int[n-(k-1)];
       int i = 0;
     while(r<n)
     {
+          a[i++] = max;
+            l++;
+            r++;
+
+            if (r >= n) break;
+
         if(max < nums[r] && mi >= l)
         {
             mi = r;
@@ -37,10 +44,9 @@ class Solution {
                  }
             }
         }
-     a[i] = max;
-     r++;
-     l++;
-     i++;
+    
+        
+     
     }
      
         return a;
