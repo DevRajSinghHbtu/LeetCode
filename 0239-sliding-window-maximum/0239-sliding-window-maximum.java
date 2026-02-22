@@ -27,7 +27,7 @@ class Solution {
 
             if (r >= n) break;
 
-        if(max < nums[r])
+        if(max < nums[r] && mi >= l)
         {
             mi = r;
             max = nums[r];
