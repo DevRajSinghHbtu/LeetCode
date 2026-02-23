@@ -105,6 +105,7 @@ LeetCode problem solutions in Java.
 | [0792-binary-search](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -153,6 +154,7 @@ LeetCode problem solutions in Java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
@@ -415,6 +417,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
