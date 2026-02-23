@@ -10,14 +10,13 @@ class Solution {
             {
                 zeros++;
             }
-            if(zeros > k)
-            {
-                break;
-            }
+           
             if(zeros <= k)
             {
                 maxlen = Math.max(maxlen, j-i+1);
             }
+            else
+            break;
         }
        }
        return maxlen;
