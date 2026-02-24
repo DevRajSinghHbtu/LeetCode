@@ -6,7 +6,7 @@ class Solution {
             for(int j = i; j<nums.length; j++){
                 sum += nums[j];
                 if(sum == goal)count++;
-                //else if(sum>goal) break;
+                else if(sum>goal) break;
                 }
             }
             return count;
