@@ -12,10 +12,7 @@ class Solution {
           while((r-l+1) - mmf > k){
             hash[s.charAt(l) - 'A']--;
             l++;
-            mmf = 0;
-            for(int i = 0; i<26; i++){
-              mmf = Math.max(mmf, hash[i]);
-            } 
+             
           }
           if((r-l+1) - mmf <= k)
           {
