@@ -108,6 +108,7 @@ LeetCode problem solutions in Java.
 | [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -156,6 +157,7 @@ LeetCode problem solutions in Java.
 | [0496-next-greater-element-i](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2451-odd-string-difference](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2451-odd-string-difference) |
@@ -302,6 +304,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -421,6 +424,7 @@ LeetCode problem solutions in Java.
 | [0239-sliding-window-maximum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
