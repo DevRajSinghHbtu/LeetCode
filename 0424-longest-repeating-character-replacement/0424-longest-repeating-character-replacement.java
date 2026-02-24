@@ -12,12 +12,8 @@ class Solution {
           while((r-l+1) - mmf > k){
             hash[s.charAt(l) - 'A']--;
             l++;
-             
           }
-          if((r-l+1) - mmf <= k)
-          {
-            maxlen = Math.max(maxlen, (r-l+1));
-          }
+          maxlen = Math.max(maxlen, (r-l+1));
           r++;
        }
         return maxlen;
