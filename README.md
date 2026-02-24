@@ -151,6 +151,7 @@ LeetCode problem solutions in Java.
 | [0217-contains-duplicate](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -240,6 +241,7 @@ LeetCode problem solutions in Java.
 | [0205-isomorphic-strings](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1651-shuffle-string) |
@@ -417,6 +419,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
