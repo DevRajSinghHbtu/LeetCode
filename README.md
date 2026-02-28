@@ -113,6 +113,7 @@ LeetCode problem solutions in Java.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -306,6 +307,7 @@ LeetCode problem solutions in Java.
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -426,6 +428,7 @@ LeetCode problem solutions in Java.
 | [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
