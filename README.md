@@ -109,6 +109,7 @@ LeetCode problem solutions in Java.
 | [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -189,10 +190,12 @@ LeetCode problem solutions in Java.
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -297,6 +300,7 @@ LeetCode problem solutions in Java.
 | [0148-sort-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -382,6 +386,7 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -444,6 +449,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -452,4 +458,12 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
