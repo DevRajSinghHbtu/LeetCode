@@ -101,6 +101,7 @@ LeetCode problem solutions in Java.
 | [0503-next-greater-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0792-binary-search) |
@@ -161,6 +162,7 @@ LeetCode problem solutions in Java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -173,6 +175,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0169-majority-element](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3046-split-the-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/3046-split-the-array) |
@@ -189,6 +192,7 @@ LeetCode problem solutions in Java.
 | [0229-majority-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0414-third-maximum-number) |
+| [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -326,6 +330,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0402-remove-k-digits](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Brainteaser
@@ -453,6 +458,7 @@ LeetCode problem solutions in Java.
 | [0023-merge-k-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
