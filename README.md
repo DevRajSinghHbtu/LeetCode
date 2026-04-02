@@ -93,6 +93,7 @@ LeetCode problem solutions in Java.
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -158,6 +159,7 @@ LeetCode problem solutions in Java.
 | [0217-contains-duplicate](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -175,6 +177,7 @@ LeetCode problem solutions in Java.
 | ------- |
 | [0169-majority-element](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -191,6 +194,7 @@ LeetCode problem solutions in Java.
 | [0217-contains-duplicate](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -305,6 +309,7 @@ LeetCode problem solutions in Java.
 | [0148-sort-list](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
@@ -458,6 +463,7 @@ LeetCode problem solutions in Java.
 | [0023-merge-k-sorted-lists](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
@@ -468,9 +474,11 @@ LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
