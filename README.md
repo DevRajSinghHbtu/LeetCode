@@ -107,6 +107,7 @@ LeetCode problem solutions in Java.
 | [0628-maximum-product-of-three-numbers](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -340,6 +341,7 @@ LeetCode problem solutions in Java.
 | [0410-split-array-largest-sum](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DevRajSinghHbtu/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Brainteaser
